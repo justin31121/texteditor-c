@@ -12,3 +12,7 @@ Basic Text Editor with some shortcuts and Syntax-Highlighting, provided by a .cf
 $ make prod
 $ padd.exe test.c
 ```
+
+##Font
+
+The Iosevka-Font ist taken from: https://github.com/be5invis/Iosevka.
