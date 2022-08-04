@@ -1,6 +1,6 @@
 # texteditor-c
 
-![Can not render the image](https://github.com/justin31121/texteditor-c/rsc/example.png?"Screenshot")
+![Can not render the image](./rsc/example.png)
 
 Basic Text Editor with some shortcuts and Syntax-Highlighting, provided by a .cfg-file.
 
