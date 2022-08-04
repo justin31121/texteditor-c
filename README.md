@@ -1,5 +1,7 @@
 # texteditor-c
 
+![Can not render the image](./rsc/example.png?raw=true "Screenshot")
+
 Basic Text Editor with some shortcuts and Syntax-Highlighting, provided by a .cfg-file.
 
 ##Dependencies
