@@ -1,6 +1,6 @@
 # texteditor-c
 
-![Can not render the image](./rsc/example.png)
+![Can not render the image](./rsc/example.PNG)
 
 Basic Text Editor with some shortcuts and Syntax-Highlighting, provided by a .cfg-file.
 
